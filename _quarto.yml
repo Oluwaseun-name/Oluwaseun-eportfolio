@@ -1,5 +1,20 @@
 project:
-  title: "Oluwaseun-eportfolio"
+  type: website
+
+website:
+  title: "Oluwaseun ePortfolio"
+  navbar:
+    left:
+      - text: Home
+        href: index.qmd
+      - text: About
+        href: about.qmd
+      - text: CV
+        href: cv.qmd
+      - text: Projects
+        href: projects.qmd
+      - text: Reflection
+        href: reflection.qmd
 
 
 

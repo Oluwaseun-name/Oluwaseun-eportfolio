@@ -1,0 +1,17 @@
+---
+title: "Welcome to My ePortfolio"
+format: html
+---
+
+# 👋 Hello, I'm Oluwaseun!
+
+Welcome to my professional ePortfolio. This site showcases my academic achievements, technical projects, and personal development as I grow in the field of data science and technology.
+
+Explore the sections below to learn more about me:
+
+- 🔍 [About Me](about.qmd)
+- 📄 [My CV](cv.qmd)
+- 💻 [Projects I've Built](projects.qmd)
+- ✨ [My Reflections & Learning](reflection.qmd)
+
+Feel free to connect with me or check out my GitHub for more work!

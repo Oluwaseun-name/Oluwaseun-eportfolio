@@ -17,4 +17,15 @@ website:
         href: reflection.qmd
 
 
+format:
+  html:
+    theme: flatly
+    css: styles.scss
 
+
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    css: styles.scss

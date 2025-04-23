@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to My ePortfolio",
+    "section": "",
+    "text": "👋 Hello, I’m Oluwaseun!\nWelcome to my professional ePortfolio. This site showcases my academic achievements, technical projects, and personal development as I grow in the field of data science and technology.\nExplore the sections below to learn more about me:\n\n🔍 About Me\n📄 My CV\n💻 Projects I’ve Built\n✨ My Reflections & Learning\n\nFeel free to connect with me or check out my GitHub for more work!"
+  },
+  {
     "objectID": "Oluwaseun-eportfolio.html",
     "href": "Oluwaseun-eportfolio.html",
     "title": "Oluwaseun-eportfolio",
@@ -12,13 +19,6 @@
     "title": "Oluwaseun-eportfolio",
     "section": "",
     "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome to My ePortfolio",
-    "section": "",
-    "text": "👋 Hello, I’m Oluwaseun!\nWelcome to my professional ePortfolio. This site showcases my academic achievements, technical projects, and personal development as I grow in the field of data science and technology.\nExplore the sections below to learn more about me:\n\n🔍 About Me\n📄 My CV\n💻 Projects I’ve Built\n✨ My Reflections & Learning\n\nFeel free to connect with me or check out my GitHub for more work!"
   },
   {
     "objectID": "projects.html",

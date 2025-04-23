@@ -19,5 +19,19 @@
     "title": "Welcome to My ePortfolio",
     "section": "",
     "text": "👋 Hello, I’m Oluwaseun!\nWelcome to my professional ePortfolio. This site showcases my academic achievements, technical projects, and personal development as I grow in the field of data science and technology.\nExplore the sections below to learn more about me:\n\n🔍 About Me\n📄 My CV\n💻 Projects I’ve Built\n✨ My Reflections & Learning\n\nFeel free to connect with me or check out my GitHub for more work!"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Here are some of the technical and academic projects I’ve worked on. Each project includes code samples, data visualizations, and a brief reflection on what I learned.\n\n\n\nDescription:\nA project where I cleaned, analyzed, and visualized a dataset using pandas, matplotlib, and seaborn.\nSkills Used: - Python - Data Cleaning - Data Visualization\nPreview:\nimport pandas as pd import matplotlib.pyplot as plt"
+  },
+  {
+    "objectID": "projects.html#data-analysis-with-python",
+    "href": "projects.html#data-analysis-with-python",
+    "title": "Projects",
+    "section": "",
+    "text": "Description:\nA project where I cleaned, analyzed, and visualized a dataset using pandas, matplotlib, and seaborn.\nSkills Used: - Python - Data Cleaning - Data Visualization\nPreview:\nimport pandas as pd import matplotlib.pyplot as plt"
   }
 ]

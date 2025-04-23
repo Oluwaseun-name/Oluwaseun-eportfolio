@@ -1,0 +1,18 @@
+---
+title: "Oluwaseun"
+image: profile.jpg
+about:
+  template: jolla
+  image-width: 15em
+  image-shape: round
+  links:
+    - text: GitHub
+      href: https://github.com/YourUsername
+      icon: github
+    - text: LinkedIn
+      href: https://linkedin.com/in/yourname
+      icon: linkedin
+    - text: Email
+      href: mailto:your@email.com
+      icon: envelope
+---

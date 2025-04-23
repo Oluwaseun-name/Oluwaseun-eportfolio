@@ -16,13 +16,6 @@ website:
       - text: Reflection
         href: reflection.qmd
 
-
-format:
-  html:
-    theme: flatly
-    css: styles.scss
-
-
 format:
   html:
     theme:

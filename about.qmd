@@ -16,3 +16,31 @@ about:
       href: mailto:your@email.com
       icon: envelope
 ---
+# Hello, I'm Oluwaseun Mattins
+
+I am currently striving towards a Bachelor of Business Studies. I am currently working on different analytical platforms and tools. My favourite is Python, which is the best; I also work on SQL and Power BI. I also have experience as an intern at DoIT, and friends and family who are experienced in analytics. In the internship, I gained an understanding of and practical experience with cloud services in delivering data. I also enhanced my skills in data analytics and my abilities in tools such as Python and Power BI. These skills have been applied to schoolwork and modules where they are required, such as Business Analytics, Workflow & Data Management, Digital Marketing, Programming, & Visualisation.
+
+---
+
+## Future Goals
+
+In the future, I plan on using the analytical expertise I have gathered over the years in various situations, such as business strategies, organisational decision-making processes, and presentations. I aim to continue expanding my knowledge in emerging technology and analytical advancement, with my particular interest in machine learning and predictive analytics. Ultimately, I strive to use my analytical expertise to drive business innovation. I am passionate about technology and want to join an up-and-coming business.
+
+---
+
+##  Applying My Skills
+
+The tools and techniques I’ve developed are being applied directly to coursework and module projects in areas such as:
+
+- **Business Analytics**
+- **Workflow & Data Management**
+- **Digital Marketing**
+- **Programming & Visualization**
+
+Each of these modules has helped reinforce my skills while encouraging critical thinking and creativity in how I analyze and present data.
+
+---
+
+## Portfolio Experience
+
+Creating this portfolio has been a rewarding and challenging experience. It challenged me to be able to step outside my traditional boundaries of academic work and build something creative of my own. In this experience, I learned Quarto and managed control of it with GitHub to deploy a live website using GitHub Pages. The challenging aspect was learning how to structure the site using HTML, CSS and SCSS. Getting my design to look professional felt intimidating initially, but overcoming the obstacle improved the result. Overall, this gave me a deeper appreciation for thoughtful presentations and helped me reflect on my journey and the skills I developed, such as Python, SQL, and Data analysis.

@@ -68,5 +68,12 @@
     "title": "Projects",
     "section": "⚙️ More Coming Soon",
     "text": "⚙️ More Coming Soon\nThis section will expand as I continue exploring topics like web scraping, machine learning, and business forecasting."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "📄 My CV\nYou can download or view my CV below:\n👉 Download CV (PDF)\n\n&lt;a href=\"cv.pdf\"&gt;Click here to download the file.&lt;/a&gt;"
   }
 ]

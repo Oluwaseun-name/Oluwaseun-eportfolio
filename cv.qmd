@@ -1,0 +1,14 @@
+---
+title: "Curriculum Vitae"
+format: html
+---
+
+# 📄 My CV
+
+You can download or view my CV below:
+
+👉 [**Download CV (PDF)**](cv.pdf)
+
+<iframe src="cv.pdf" width="100%" height="700px" style="border: none;"> 
+  <a href="cv.pdf">Click here to download the file.</a>
+</iframe>

@@ -1,21 +1,21 @@
 ---
-title: "Oluwaseun"
-image: profile.jpg
+title: "Oluwaseun Mattins"
+image: images/profile.jpg
 about:
   template: jolla
   image-width: 15em
   image-shape: round
   links:
-    - text: GitHub
-      href: https://github.com/YourUsername
+   - text: GitHub
+      href: https://github.com/Oluwaseun-name
       icon: github
     - text: LinkedIn
-      href: https://linkedin.com/in/yourname
+      href: https://www.linkedin.com/in/oluwaseun-mattins-261042326/
       icon: linkedin
     - text: Email
-      href: mailto:your@email.com
+      href: mailto:Oluwaseun.mattins2@mail.dcu.ie
       icon: envelope
----
+      
 # Hello, I'm Oluwaseun Mattins
 
 I am currently striving towards a Bachelor of Business Studies. I am currently working on different analytical platforms and tools. My favourite is Python, which is the best; I also work on SQL and Power BI. I also have experience as an intern at DoIT, and friends and family who are experienced in analytics. In the internship, I gained an understanding of and practical experience with cloud services in delivering data. I also enhanced my skills in data analytics and my abilities in tools such as Python and Power BI. These skills have been applied to schoolwork and modules where they are required, such as Business Analytics, Workflow & Data Management, Digital Marketing, Programming, & Visualisation.

@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "projects/touch projects/python-demo.html",
+    "href": "projects/touch projects/python-demo.html",
+    "title": "Python Demo",
+    "section": "",
+    "text": "📦 Data Wrangling with pandas\n```python import pandas as pd\ndata = pd.DataFrame({ “name”: [“Alice”, “Bob”, “Charlie”], “score”: [85, 92, 78] })\ndata[data[“score”] &gt; 80]"
+  },
+  {
     "objectID": "Oluwaseun-eportfolio.html",
     "href": "Oluwaseun-eportfolio.html",
     "title": "Oluwaseun-eportfolio",

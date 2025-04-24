@@ -7,6 +7,34 @@
     "text": "📦 Data Wrangling with pandas\n```python import pandas as pd\ndata = pd.DataFrame({ “name”: [“Alice”, “Bob”, “Charlie”], “score”: [85, 92, 78] })\ndata[data[“score”] &gt; 80]"
   },
   {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Here are some of my projects. Click to view more details."
+  },
+  {
+    "objectID": "projects/index.html#data-analysis-with-python",
+    "href": "projects/index.html#data-analysis-with-python",
+    "title": "Projects",
+    "section": "📊 Data Analysis with Python",
+    "text": "📊 Data Analysis with Python\n\nTools used: Python, Pandas, Matplotlib\nSkills: Data wrangling, trend analysis, line plots\nWhat I learned: Automating simple data pipelines, designing visual narratives"
+  },
+  {
+    "objectID": "projects/index.html#sql-dashboard-project",
+    "href": "projects/index.html#sql-dashboard-project",
+    "title": "Projects",
+    "section": "📈 SQL Dashboard Project",
+    "text": "📈 SQL Dashboard Project\n\nTools used: SQL, PostgreSQL, Power BI\nSkills: Query writing, data cleaning, dashboard creation\nWhat I learned: Building reports from scratch and communicating KPIs to stakeholders"
+  },
+  {
+    "objectID": "projects/index.html#more-coming-soon",
+    "href": "projects/index.html#more-coming-soon",
+    "title": "Projects",
+    "section": "⚙️ More Coming Soon",
+    "text": "⚙️ More Coming Soon\nThis section will expand as I continue exploring topics like web scraping, machine learning, and business forecasting."
+  },
+  {
     "objectID": "Oluwaseun-eportfolio.html",
     "href": "Oluwaseun-eportfolio.html",
     "title": "Oluwaseun-eportfolio",

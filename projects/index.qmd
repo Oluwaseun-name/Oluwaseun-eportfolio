@@ -1,0 +1,38 @@
+---
+title: Projects
+---
+
+Here are some of my projects. Click to view more details.
+
+- [Data Analysis](projects/data-analysis.qmd)
+- [SQL Dashboard](projects/sql-dashboard.qmd)
+
+---
+title: "Projects"
+---
+
+# 💼 Projects Overview
+
+Here you'll find a selection of my recent data-focused work — combining Python, SQL, and visualization tools like Power BI.
+
+---
+
+## 📊 [Data Analysis with Python](projects/data-analysis.qmd)
+
+- **Tools used**: Python, Pandas, Matplotlib
+- **Skills**: Data wrangling, trend analysis, line plots
+- **What I learned**: Automating simple data pipelines, designing visual narratives
+
+---
+
+## 📈 [SQL Dashboard Project](projects/sql-dashboard.qmd)
+
+- **Tools used**: SQL, PostgreSQL, Power BI
+- **Skills**: Query writing, data cleaning, dashboard creation
+- **What I learned**: Building reports from scratch and communicating KPIs to stakeholders
+
+---
+
+## ⚙️ More Coming Soon
+
+This section will expand as I continue exploring topics like web scraping, machine learning, and business forecasting.

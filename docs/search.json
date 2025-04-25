@@ -35,46 +35,18 @@
     "text": "Reflecting on this process has helped me realize how much progress I’ve made — not just technically, but in how I think, communicate, and organize my work. I now have a portfolio that not only presents what I’ve done, but also who I am becoming as a professional."
   },
   {
-    "objectID": "projects/index.html",
-    "href": "projects/index.html",
-    "title": "Projects",
+    "objectID": "Oluwaseun-eportfolio.html",
+    "href": "Oluwaseun-eportfolio.html",
+    "title": "Oluwaseun-eportfolio",
     "section": "",
-    "text": "Here are some of my projects. Click to view more details."
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
   },
   {
-    "objectID": "projects/index.html#data-analysis-with-python",
-    "href": "projects/index.html#data-analysis-with-python",
-    "title": "Projects",
-    "section": "📊 Data Analysis with Python",
-    "text": "📊 Data Analysis with Python\n\nTools used: Python, Pandas, Matplotlib\nSkills: Data wrangling, trend analysis, line plots\nWhat I learned: Automating simple data pipelines, designing visual narratives"
-  },
-  {
-    "objectID": "projects/index.html#sql-dashboard-project",
-    "href": "projects/index.html#sql-dashboard-project",
-    "title": "Projects",
-    "section": "📈 SQL Dashboard Project",
-    "text": "📈 SQL Dashboard Project\n\nTools used: SQL, PostgreSQL, Power BI\nSkills: Query writing, data cleaning, dashboard creation\nWhat I learned: Building reports from scratch and communicating KPIs to stakeholders"
-  },
-  {
-    "objectID": "projects/index.html#more-coming-soon",
-    "href": "projects/index.html#more-coming-soon",
-    "title": "Projects",
-    "section": "⚙️ More Coming Soon",
-    "text": "⚙️ More Coming Soon\nThis section will expand as I continue exploring topics like web scraping, machine learning, and business forecasting."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome to My ePortfolio",
+    "objectID": "Oluwaseun-eportfolio.html#quarto",
+    "href": "Oluwaseun-eportfolio.html#quarto",
+    "title": "Oluwaseun-eportfolio",
     "section": "",
-    "text": "👋 Hello, I’m Oluwaseun!\nWelcome to my professional ePortfolio. This site showcases my academic achievements, technical projects, and personal development as I grow in the field of data science and technology.\nExplore the sections below to learn more about me:\n\n🔍 About Me\n📄 My CV\n💻 Projects I’ve Built\n✨ My Reflections & Learning\n\nFeel free to connect with me or check out my GitHub for more work!"
-  },
-  {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "Curriculum Vitae",
-    "section": "",
-    "text": "📄 My CV\n👉 Download CV as PDF\n\nYour browser does not support PDF embedding. &lt;a href=\"cv.pdf\"&gt;Click here to download the file.&lt;/a&gt;"
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
   },
   {
     "objectID": "about.html",
@@ -105,31 +77,45 @@
     "text": "Creating this portfolio has been a rewarding and challenging experience. It challenged me to be able to step outside my traditional boundaries of academic work and build something creative of my own. In this experience, I learned Quarto and managed control of it with GitHub to deploy a live website using GitHub Pages. The challenging aspect was learning how to structure the site using HTML, CSS and SCSS. Getting my design to look professional felt intimidating initially, but overcoming the obstacle improved the result. Overall, this gave me a deeper appreciation for thoughtful presentations and helped me reflect on my journey and the skills I developed, such as Python, SQL, and Data analysis."
   },
   {
-    "objectID": "Oluwaseun-eportfolio.html",
-    "href": "Oluwaseun-eportfolio.html",
-    "title": "Oluwaseun-eportfolio",
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
     "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+    "text": "📄 My CV\n👉 Download CV as PDF\n\nYour browser does not support PDF embedding. &lt;a href=\"cv.pdf\"&gt;Click here to download the file.&lt;/a&gt;"
   },
   {
-    "objectID": "Oluwaseun-eportfolio.html#quarto",
-    "href": "Oluwaseun-eportfolio.html#quarto",
-    "title": "Oluwaseun-eportfolio",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to My ePortfolio",
     "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+    "text": "👋 Hello, I’m Oluwaseun!\nWelcome to my professional ePortfolio. This site showcases my academic achievements, technical projects, and personal development as I grow in the field of data science and technology.\nExplore the sections below to learn more about me:\n\n🔍 About Me\n📄 My CV\n💻 Projects I’ve Built\n✨ My Reflections & Learning\n\nFeel free to connect with me or check out my GitHub for more work!"
   },
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
     "title": "Projects",
     "section": "",
-    "text": "Here are some of the technical and academic projects I’ve worked on. Each project includes code samples, data visualizations, and a brief reflection on what I learned.\n\n\n\nDescription:\nA project where I cleaned, analyzed, and visualized a dataset using pandas, matplotlib, and seaborn.\nSkills Used: - Python - Data Cleaning - Data Visualization\nPreview:\nimport pandas as pd import matplotlib.pyplot as plt"
+    "text": "Here are some of my projects. Click to view more details."
   },
   {
-    "objectID": "projects.html#data-analysis-with-python",
-    "href": "projects.html#data-analysis-with-python",
+    "objectID": "projects/index.html#data-analysis-with-python",
+    "href": "projects/index.html#data-analysis-with-python",
     "title": "Projects",
-    "section": "",
-    "text": "Description:\nA project where I cleaned, analyzed, and visualized a dataset using pandas, matplotlib, and seaborn.\nSkills Used: - Python - Data Cleaning - Data Visualization\nPreview:\nimport pandas as pd import matplotlib.pyplot as plt"
+    "section": "📊 Data Analysis with Python",
+    "text": "📊 Data Analysis with Python\n\nTools used: Python, Pandas, Matplotlib\nSkills: Data wrangling, trend analysis, line plots\nWhat I learned: Automating simple data pipelines, designing visual narratives"
+  },
+  {
+    "objectID": "projects/index.html#sql-dashboard-project",
+    "href": "projects/index.html#sql-dashboard-project",
+    "title": "Projects",
+    "section": "📈 SQL Dashboard Project",
+    "text": "📈 SQL Dashboard Project\n\nTools used: SQL, PostgreSQL, Power BI\nSkills: Query writing, data cleaning, dashboard creation\nWhat I learned: Building reports from scratch and communicating KPIs to stakeholders"
+  },
+  {
+    "objectID": "projects/index.html#more-coming-soon",
+    "href": "projects/index.html#more-coming-soon",
+    "title": "Projects",
+    "section": "⚙️ More Coming Soon",
+    "text": "⚙️ More Coming Soon\nThis section will expand as I continue exploring topics like web scraping, machine learning, and business forecasting."
   }
 ]

@@ -70,18 +70,18 @@
     "text": "⚙️ More Coming Soon\nThis section will expand as I continue exploring topics like web scraping, machine learning, and business forecasting."
   },
   {
-    "objectID": "Oluwaseun-eportfolio.html",
-    "href": "Oluwaseun-eportfolio.html",
-    "title": "Oluwaseun-eportfolio",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to My ePortfolio",
     "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+    "text": "👋 Hello, I’m Oluwaseun!\nWelcome to my professional ePortfolio. This site showcases my academic achievements, technical projects, and personal development as I grow in the field of data science and technology.\nExplore the sections below to learn more about me:\n\n🔍 About Me\n📄 My CV\n💻 Projects I’ve Built\n✨ My Reflections & Learning\n\nFeel free to connect with me or check out my GitHub for more work!"
   },
   {
-    "objectID": "Oluwaseun-eportfolio.html#quarto",
-    "href": "Oluwaseun-eportfolio.html#quarto",
-    "title": "Oluwaseun-eportfolio",
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
     "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+    "text": "📄 My CV\n👉 Download CV as PDF\n\nYour browser does not support PDF embedding. &lt;a href=\"cv.pdf\"&gt;Click here to download the file.&lt;/a&gt;"
   },
   {
     "objectID": "about.html",
@@ -112,18 +112,18 @@
     "text": "Creating this portfolio has been a rewarding and challenging experience. It challenged me to be able to step outside my traditional boundaries of academic work and build something creative of my own. In this experience, I learned Quarto and managed control of it with GitHub to deploy a live website using GitHub Pages. The challenging aspect was learning how to structure the site using HTML, CSS and SCSS. Getting my design to look professional felt intimidating initially, but overcoming the obstacle improved the result. Overall, this gave me a deeper appreciation for thoughtful presentations and helped me reflect on my journey and the skills I developed, such as Python, SQL, and Data analysis."
   },
   {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "Curriculum Vitae",
+    "objectID": "Oluwaseun-eportfolio.html",
+    "href": "Oluwaseun-eportfolio.html",
+    "title": "Oluwaseun-eportfolio",
     "section": "",
-    "text": "📄 My CV\n👉 Download CV as PDF\n\nYour browser does not support PDF embedding. &lt;a href=\"cv.pdf\"&gt;Click here to download the file.&lt;/a&gt;"
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome to My ePortfolio",
+    "objectID": "Oluwaseun-eportfolio.html#quarto",
+    "href": "Oluwaseun-eportfolio.html#quarto",
+    "title": "Oluwaseun-eportfolio",
     "section": "",
-    "text": "👋 Hello, I’m Oluwaseun!\nWelcome to my professional ePortfolio. This site showcases my academic achievements, technical projects, and personal development as I grow in the field of data science and technology.\nExplore the sections below to learn more about me:\n\n🔍 About Me\n📄 My CV\n💻 Projects I’ve Built\n✨ My Reflections & Learning\n\nFeel free to connect with me or check out my GitHub for more work!"
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
   },
   {
     "objectID": "projects.html",

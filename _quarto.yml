@@ -12,7 +12,7 @@ website:
       - text: CV
         href: cv.qmd
       - text: Projects
-        href: projects.qmd
+        href: projects/index.qmd 
       - text: Reflection
         href: reflection.qmd
 

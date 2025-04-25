@@ -8,7 +8,7 @@
         "jupyter: python3\n",
         "---"
       ],
-      "id": "ac159e0b"
+      "id": "b9d835d6"
     },
     {
       "cell_type": "code",
@@ -26,7 +26,7 @@
         "from sklearn.metrics import accuracy_score, classification_report, confusion_matrix\n",
         "import io"
       ],
-      "id": "909a330d",
+      "id": "e495dec4",
       "execution_count": null,
       "outputs": []
     },
@@ -42,7 +42,7 @@
         "from google.colab import files\n",
         "uploaded = files.upload()"
       ],
-      "id": "8f4bd4c4",
+      "id": "04f62ca0",
       "execution_count": null,
       "outputs": []
     },
@@ -52,7 +52,7 @@
       "source": [
         "df = pd.read_csv('healthcare_dataset.csv')"
       ],
-      "id": "a03a9940",
+      "id": "653288ee",
       "execution_count": null,
       "outputs": []
     },
@@ -67,7 +67,7 @@
       "source": [
         "df.head(10)"
       ],
-      "id": "75f8dab8",
+      "id": "677a2cfc",
       "execution_count": null,
       "outputs": []
     },
@@ -82,7 +82,7 @@
       "source": [
         "df.head()"
       ],
-      "id": "e5e97e7e",
+      "id": "bc8abb95",
       "execution_count": null,
       "outputs": []
     }

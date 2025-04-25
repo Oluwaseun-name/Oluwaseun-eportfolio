@@ -116,7 +116,7 @@
     "href": "cv.html",
     "title": "Curriculum Vitae",
     "section": "",
-    "text": "📄 My CV\nYou can download or view my CV below:\n👉 Download CV (PDF)\n\n&lt;a href=\"cv.pdf\"&gt;Click here to download the file.&lt;/a&gt;"
+    "text": "📄 My CV\n👉 Download CV as PDF\n\nYour browser does not support PDF embedding. &lt;a href=\"cv.pdf\"&gt;Click here to download the file.&lt;/a&gt;"
   },
   {
     "objectID": "index.html",
